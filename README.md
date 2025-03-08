@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+
 
 <table>
   <tr>
