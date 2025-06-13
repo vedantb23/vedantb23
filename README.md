@@ -76,6 +76,6 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=vedantb23&icon=2&color=6)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=vedantb23&label=Profile%20views&color=f9c453&style=plastic)
 
 </div>
