@@ -11,11 +11,13 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantb23&theme=github_dark_dimmed&hide_border=false&layout=compact" /></td>
   </tr>
 </table>
-
+ 
 ---
 
 ## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,nextjs,py,c,cpp,mysql,mongodb,firebase,postman,git,github&theme=light)](https://skillicons.dev)
 
+<!--
 ### 🧠 Languages:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -71,7 +73,7 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
+-->
 ---
 
 <div align="center">
