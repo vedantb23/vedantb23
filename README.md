@@ -13,10 +13,10 @@
 </table>
  
 ---
-
+<!--
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,nodejs,express,nextjs,py,c,cpp,mysql,mongodb,firebase,postman,git,github&theme=light)](https://skillicons.dev)
-
+-->
 <!--
 ### 🧠 Languages:
 
