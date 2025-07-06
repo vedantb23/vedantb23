@@ -1,10 +1,14 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # runs every day at midnight
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight
   workflow_dispatch:
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # this fixes the 403 error
     steps:
       - uses: lowlighter/metrics@latest
         with:
