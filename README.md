@@ -64,7 +64,6 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
 ### 🎨 Design & Media:
 
@@ -74,8 +73,12 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 -->
----
 
+<div align="center">
+  <img src="./github-metrics.svg" alt="Metrics" width="420"  />
+</div>
+
+---
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=vedantb23&label=Profile%20views&color=f9c453&style=plastic)
