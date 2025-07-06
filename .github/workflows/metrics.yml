@@ -1,14 +1,14 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # this fixes the 403 error
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -17,3 +17,5 @@ jobs:
           filename: github-metrics.svg
           base: header, activity
           plugin_languages: yes
+          plugin_isocalendar: yes           # enable isometric commit calendar
+          plugin_isocalendar_duration: full-year   # optional, show 52 weeks
